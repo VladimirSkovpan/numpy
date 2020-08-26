@@ -2,6 +2,8 @@
 
 import numpy as np
 
+#new change
+
 a = np.array([1, 2, 3])   # Create a rank 1 array\n",
 print(type(a))            # Prints \"<class 'numpy.ndarray'>\"\n",
 print(a.shape)            # Prints \"(3,)\"\n",
